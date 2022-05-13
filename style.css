@@ -1,0 +1,33 @@
+body {
+    background-color: peachpuff;
+    text-align: center;
+    font-family: 'Lucida Console', 'Courier New', monospace;
+}
+
+h3,
+h1 {
+    color: rgb(162, 73, 73);
+}
+
+p {
+    color:rgb(212, 109, 100);
+}
+
+li {
+    background-color: ivory;
+    color: rgb(212, 109, 100);
+    align-items: center;
+}
+ul,
+ol {
+    padding-left: 0;
+    list-style-position: inside;
+}
+img {
+    height: auto;
+    width: 200px;
+}
+
+a {
+    color:rgb(95, 160, 157)
+}
